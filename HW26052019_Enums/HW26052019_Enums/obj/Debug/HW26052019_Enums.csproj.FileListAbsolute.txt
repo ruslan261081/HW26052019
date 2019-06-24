@@ -1,0 +1,7 @@
+C:\Users\rosla\source\repos\HW26052019_Enums\HW26052019_Enums\bin\Debug\HW26052019_Enums.exe.config
+C:\Users\rosla\source\repos\HW26052019_Enums\HW26052019_Enums\bin\Debug\HW26052019_Enums.exe
+C:\Users\rosla\source\repos\HW26052019_Enums\HW26052019_Enums\bin\Debug\HW26052019_Enums.pdb
+C:\Users\rosla\source\repos\HW26052019_Enums\HW26052019_Enums\obj\Debug\HW26052019_Enums.csprojAssemblyReference.cache
+C:\Users\rosla\source\repos\HW26052019_Enums\HW26052019_Enums\obj\Debug\HW26052019_Enums.csproj.CoreCompileInputs.cache
+C:\Users\rosla\source\repos\HW26052019_Enums\HW26052019_Enums\obj\Debug\HW26052019_Enums.exe
+C:\Users\rosla\source\repos\HW26052019_Enums\HW26052019_Enums\obj\Debug\HW26052019_Enums.pdb

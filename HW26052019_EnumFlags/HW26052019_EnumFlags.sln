@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW26052019_EnumFlags", "HW26052019_EnumFlags\HW26052019_EnumFlags.csproj", "{9343B520-80A1-4571-A4C6-E75D5C5C7481}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9343B520-80A1-4571-A4C6-E75D5C5C7481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9343B520-80A1-4571-A4C6-E75D5C5C7481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9343B520-80A1-4571-A4C6-E75D5C5C7481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9343B520-80A1-4571-A4C6-E75D5C5C7481}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C671C174-2DF3-44EA-B05E-DC4A3A9AB0C5}
+	EndGlobalSection
+EndGlobal

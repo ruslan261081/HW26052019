@@ -1,0 +1,7 @@
+C:\Users\rosla\source\repos\HW26052019_EnumFlags\HW26052019_EnumFlags\bin\Debug\HW26052019_EnumFlags.exe.config
+C:\Users\rosla\source\repos\HW26052019_EnumFlags\HW26052019_EnumFlags\bin\Debug\HW26052019_EnumFlags.exe
+C:\Users\rosla\source\repos\HW26052019_EnumFlags\HW26052019_EnumFlags\bin\Debug\HW26052019_EnumFlags.pdb
+C:\Users\rosla\source\repos\HW26052019_EnumFlags\HW26052019_EnumFlags\obj\Debug\HW26052019_EnumFlags.csprojAssemblyReference.cache
+C:\Users\rosla\source\repos\HW26052019_EnumFlags\HW26052019_EnumFlags\obj\Debug\HW26052019_EnumFlags.csproj.CoreCompileInputs.cache
+C:\Users\rosla\source\repos\HW26052019_EnumFlags\HW26052019_EnumFlags\obj\Debug\HW26052019_EnumFlags.exe
+C:\Users\rosla\source\repos\HW26052019_EnumFlags\HW26052019_EnumFlags\obj\Debug\HW26052019_EnumFlags.pdb
